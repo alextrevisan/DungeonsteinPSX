@@ -1,0 +1,12 @@
+
+.vscode
+*.mcd
+*.frag
+*.vert
+*.lua
+bios/*.BIN
+build
+bin
+iso
+.vscode
+.sentry-native

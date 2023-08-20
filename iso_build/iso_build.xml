@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iso_project image_name="Dungeonstein.bin" cue_sheet="Dungeonstein.cue" no_xa="1">
+	<track type="data">
+		<identifiers
+			system			="PLAYSTATION"
+			application		="PLAYSTATION"
+			volume			="Dungeonstein"
+			volume_set		="Dungeonstein"
+			publisher		="ALEXANDRO TREVISAN"
+			data_preparer	="MKPSXISO"
+			copyright		="COPYLEFT"
+		/>
+		
+		<directory_tree>
+			<file name="system.cnf"	type="data"	source="..\iso_build\system.cnf"/>
+			<file name="boot.elf"	type="data"	source="..\bin\Dungeonstein.elf"/>
+		</directory_tree>
+	</track>	
+</iso_project>
